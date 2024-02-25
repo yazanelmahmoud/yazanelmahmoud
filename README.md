@@ -1,16 +1,18 @@
-👋 Hi, I’m @yazanelmahmoud, an engineering student with a rich cultural heritage, fluent in French, English, and Arabic. I'm currently pursuing Computer Engineering at UTC - Sorbonne University, dedicated to mastering the complexities of software development and systems engineering.
+👋 Hello, I’m @yazanelmahmoud, a Computer Engineering student at UTC - Sorbonne University, with a passion for diving deep into the world of software development and systems engineering. Fluent in French, English, and Arabic, I bring a unique global perspective to my work.
 
-👀 My interests span the realm of computer engineering, where I seek to integrate innovative solutions in software development, leveraging my experience from a 6-month stint at the Alma Mater Studiorum - Università di Bologna where I focused on Electronic Engineering for Intelligent Vehicles.
+🔍 My technical expertise includes a strong foundation in programming languages such as Python, C, and SQL, along with web development skills in HTML and CSS. These skills are complemented by my hands-on experience in software engineering principles and my dedication to mastering the intricacies of both front-end and back-end development.
 
-🌱 With a keen eye on the future of technology, I am continually enhancing my expertise in software engineering, aiming to contribute to projects that push the boundaries of what's possible.
+🌟 During a 6-month program at the Alma Mater Studiorum - Università di Bologna, I specialized in Electronic Engineering for Intelligent Vehicles, where I developed a keen interest in integrating innovative software solutions in complex engineering systems.
 
-💞️ I am open to collaborating on projects that challenge me to apply my knowledge in practical settings, particularly those that benefit from my diverse educational background and technical skills.
+📚 I am constantly seeking to expand my knowledge and stay abreast of the latest technological advancements. My goal is to contribute to cutting-edge projects that challenge the status quo and leverage technology to solve real-world problems.
 
-📫 How to reach me: Reach out via email at yaz.mahmou@gmail.com or connect on LinkedIn. I'm always open to new opportunities and collaborations.
+🤝 I’m eager to collaborate on projects that allow me to apply my technical skills and knowledge in practical, impactful ways. I value diverse perspectives and believe that my multicultural background enhances my ability to innovate and collaborate effectively.
+
+📫 You can reach me at yaz.mahmou@gmail.com or connect with me on LinkedIn. I’m always open to discussing new projects, opportunities, and ideas.
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm an avid traveler, fascinated by the cultural diversity and technological innovations I encounter around the world. This curiosity fuels my passion for engineering, inspiring me to incorporate global perspectives into my projects.
+⚡ Fun fact: Traveling the world has not only expanded my cultural horizons but also inspired my passion for technology. I am fascinated by how technological innovations can transcend boundaries, and I aim to reflect this belief in my engineering projects.
 
 <!---
 yazanelmahmoud/yazanelmahmoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
